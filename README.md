@@ -301,13 +301,9 @@ timeline
   
 
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lesi-nedo&theme=react-dark&hide_border=true" width="70%">
-  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lesi-nedo&theme=react-dark&hide_border=true" width="90%">
   
 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=lesi-nedo&theme=nord&column=7" />
-  </a>
 </div>
 
 <img src="./assets/icons/horizontal-line-svgrepo-com.svg" width="3%" alt="Horizontal Line" />
