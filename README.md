@@ -1,9 +1,9 @@
 
 <div align="center">
-   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="50%">
+   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="70%">
    <div align="center">
   <a href="https://nedo.im/blog">
-    <img src="https://img.shields.io/badge/-%E2%9A%A1%20OLEKSIY%20NEDOBOIYCHUK%20%E2%9A%A1-6495ED?style=for-the-badge&labelColor=1a1a1a&logo=github&logoColor=white" alt="Oleksiy Nedoboiychuk" width="60%"/>
+    <img src="https://img.shields.io/badge/-%E2%9A%A1%20OLEKSIY%20NEDOBOIYCHUK%20%E2%9A%A1-6495ED?style=for-the-badge&labelColor=1a1a1a&logo=github&logoColor=white" alt="Oleksiy Nedoboiychuk" width="50%"/>
   </a>
   </div>
   <br>
@@ -229,116 +229,154 @@ timeline
 
 ## Projects
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="70%">
-  <h2><span style="color: #6495ED;">DIGITAL CREATIONS</span></h2>
+<div align="center" style="background: linear-gradient(135deg, #f5f7fa 0%, #e8ecf1 100%); border-radius: 20px; padding: 25px; box-shadow: 0 8px 32px rgba(31, 38, 135, 0.1); margin: 20px 0;">
+
+<div style="border-left: 4px solid #6495ED; padding-left: 15px; margin: 20px 0; font-style: italic;">
+    <span style="color: #333; font-family: 'Georgia', serif; font-size: 18px;">Digital artifacts crafted with logic, passion, and a touch of wizardry.</span>
 </div>
 
-<table width="100%" border="0" align="center">
-<tr>
-<td width="50%" align="center">
-
-<div style="border: 1px solid #cccccc; border-radius: 10px; padding: 15px; background: linear-gradient(145deg, #f8f9fa, #e9ecef);">
-  <h3 align="center"><img src="https://img.shields.io/badge/-NEURAL%20NETWORK-313131?style=flat-square"/> FROM SCRATCH</h3>
-  <hr style="border: 1px solid #6495ED;">
-  <p align="center" style="color: #212529;">Designed a flexible Neural Network using only Python and NumPy, implementing forward and backward propagation with Nesterov momentum optimization. Added L1/L2 regularization and grid search for hyperparameter tuning.</p>
-  <div align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  </div>
+<div style="position: relative; margin: 30px 0;">
+    <div style="position: absolute; height: 1px; width: 60%; top: 50%; left: 20%; background: linear-gradient(to right, transparent, #6495ED, transparent);"></div>
+    <span style="background: #f5f7fa; padding: 0 15px; position: relative; color: #2F3542; font-family: 'Courier New', monospace;">/project collection/</span>
 </div>
 
-</td>
-<td width="50%" align="center">
-
-<div style="border: 1px solid #cccccc; border-radius: 10px; padding: 15px; background: linear-gradient(145deg, #f8f9fa, #e9ecef);">
-  <h3 align="center"><img src="https://img.shields.io/badge/-PROBLOG%20BASED-313131?style=flat-square"/> AI AGENT</h3>
-  <hr style="border: 1px solid #DD0031;">
-  <p align="center" style="color: #212529;">Developed an AI agent using ProbLog for a 2D fighting game that adapts to opponents through dynamic probability estimation. Outperformed MCTS, MinMax, and Prolog-based agents in simulations.</p>
-  <div align="center">
-    <img src="https://img.shields.io/badge/ProbLog-AA0000?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Probabilistic_Programming-8A2BE2?style=for-the-badge" />
-  </div>
+<!-- Neural Network Project -->
+<div style="margin: 30px 0; padding: 20px; border-radius: 15px; background: rgba(255, 255, 255, 0.7); box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);">
+    <div style="display: flex; align-items: center; justify-content: center; margin-bottom: 15px;">
+        <div style="height: 25px; width: 5px; background-color: #3776AB; margin-right: 10px;"></div>
+        <h3 style="color: #2F3542; font-family: 'Courier New', monospace; font-size: 18px; margin: 0;">NEURAL NETWORK FROM SCRATCH</h3>
+        <div style="height: 25px; width: 5px; background-color: #3776AB; margin-left: 10px;"></div>
+    </div>
+    <div style="position: relative; margin: 20px 0;">
+        <div style="position: absolute; height: 1px; width: 80%; top: 50%; left: 10%; background: linear-gradient(to right, transparent, #3776AB, transparent);"></div>
+    </div>
+    <p style="color: #333; font-family: 'Georgia', serif; line-height: 1.6; padding: 0 15px; text-align: center;">
+        Designed a flexible Neural Network using only Python and NumPy, implementing forward and backward propagation with Nesterov momentum optimization. Added L1/L2 regularization and grid search for hyperparameter tuning.
+    </p>
+    <div style="margin-top: 15px; text-align: center;">
+        <div style="display: inline-block; margin: 2px; padding: 4px 12px; background: #e6effe; border-radius: 4px; font-size: 12px; border-left: 3px solid #3776AB;">Python</div>
+        <div style="display: inline-block; margin: 2px; padding: 4px 12px; background: #e6effe; border-radius: 4px; font-size: 12px; border-left: 3px solid #013243;">NumPy</div>
+    </div>
 </div>
 
-</td>
-</tr>
-
-<tr><td colspan="2" align="center">
-  <div style="margin: 10px;">
-    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="70%">
-  </div>
-</td></tr>
-
-<tr>
-<td width="50%" align="center">
-
-<div style="border: 1px solid #cccccc; border-radius: 10px; padding: 15px; background: linear-gradient(145deg, #f8f9fa, #e9ecef);">
-  <h3 align="center"><img src="https://img.shields.io/badge/-TELEGRAM%20BOT-313131?style=flat-square"/> WITH GITHUB INTEGRATION</h3>
-  <hr style="border: 1px solid #0088cc;">
-  <p align="center" style="color: #212529;">Created a Telegram bot that integrates with GitHub webhooks to provide repository event notifications and respond to user commands.</p>
-  <div align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub_API-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </div>
+<!-- ProbLog AI Agent Project -->
+<div style="margin: 30px 0; padding: 20px; border-radius: 15px; background: rgba(255, 255, 255, 0.7); box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);">
+    <div style="display: flex; align-items: center; justify-content: center; margin-bottom: 15px;">
+        <div style="height: 25px; width: 5px; background-color: #DD0031; margin-right: 10px;"></div>
+        <h3 style="color: #2F3542; font-family: 'Courier New', monospace; font-size: 18px; margin: 0;">PROBLOG BASED AI AGENT</h3>
+        <div style="height: 25px; width: 5px; background-color: #DD0031; margin-left: 10px;"></div>
+    </div>
+    <div style="position: relative; margin: 20px 0;">
+        <div style="position: absolute; height: 1px; width: 80%; top: 50%; left: 10%; background: linear-gradient(to right, transparent, #DD0031, transparent);"></div>
+    </div>
+    <p style="color: #333; font-family: 'Georgia', serif; line-height: 1.6; padding: 0 15px; text-align: center;">
+        Developed an AI agent using ProbLog for a 2D fighting game that adapts to opponents through dynamic probability estimation. Outperformed MCTS, MinMax, and Prolog-based agents in simulations.
+    </p>
+    <div style="margin-top: 15px; text-align: center;">
+        <div style="display: inline-block; margin: 2px; padding: 4px 12px; background: #ffeeee; border-radius: 4px; font-size: 12px; border-left: 3px solid #AA0000;">ProbLog</div>
+        <div style="display: inline-block; margin: 2px; padding: 4px 12px; background: #f8efff; border-radius: 4px; font-size: 12px; border-left: 3px solid #8A2BE2;">Probabilistic Programming</div>
+    </div>
 </div>
 
-</td>
-<td width="50%" align="center">
+<div style="margin: 30px auto; width: 70%; height: 1px; background: linear-gradient(to right, transparent, #6495ED 50%, transparent);"></div>
 
-<div style="border: 1px solid #cccccc; border-radius: 10px; padding: 15px; background: linear-gradient(145deg, #f8f9fa, #e9ecef);">
-  <h3 align="center"><img src="https://img.shields.io/badge/-PERSONAL%20WEB-313131?style=flat-square"/> APPLICATION</h3>
-  <hr style="border: 1px solid #FF3E00;">
-  <p align="center" style="color: #212529;">Developed a personal website using Svelte and Django with PostgreSQL database integration. Deployed on AWS using Nginx and Apache.</p>
-  <div align="center">
-    <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  </div>
+<!-- Telegram Bot Project -->
+<div style="margin: 30px 0; padding: 20px; border-radius: 15px; background: rgba(255, 255, 255, 0.7); box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);">
+    <div style="display: flex; align-items: center; justify-content: center; margin-bottom: 15px;">
+        <div style="height: 25px; width: 5px; background-color: #0088cc; margin-right: 10px;"></div>
+        <h3 style="color: #2F3542; font-family: 'Courier New', monospace; font-size: 18px; margin: 0;">TELEGRAM BOT WITH GITHUB INTEGRATION</h3>
+        <div style="height: 25px; width: 5px; background-color: #0088cc; margin-left: 10px;"></div>
+    </div>
+    <div style="position: relative; margin: 20px 0;">
+        <div style="position: absolute; height: 1px; width: 80%; top: 50%; left: 10%; background: linear-gradient(to right, transparent, #0088cc, transparent);"></div>
+    </div>
+    <p style="color: #333; font-family: 'Georgia', serif; line-height: 1.6; padding: 0 15px; text-align: center;">
+        Created a Telegram bot that integrates with GitHub webhooks to provide repository event notifications and respond to user commands.
+    </p>
+    <div style="margin-top: 15px; text-align: center;">
+        <div style="display: inline-block; margin: 2px; padding: 4px 12px; background: #e6effe; border-radius: 4px; font-size: 12px; border-left: 3px solid #3776AB;">Python</div>
+        <div style="display: inline-block; margin: 2px; padding: 4px 12px; background: #e6f4ff; border-radius: 4px; font-size: 12px; border-left: 3px solid #2CA5E0;">Telegram</div>
+        <div style="display: inline-block; margin: 2px; padding: 4px 12px; background: #efeff0; border-radius: 4px; font-size: 12px; border-left: 3px solid #181717;">GitHub API</div>
+    </div>
 </div>
 
-</td>
-</tr>
-
-<tr><td colspan="2" align="center">
-  <div style="margin: 10px;">
-    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="70%">
-  </div>
-</td></tr>
-
-<tr>
-<td width="50%" align="center">
-
-<div style="border: 1px solid #cccccc; border-radius: 10px; padding: 15px; background: linear-gradient(145deg, #f8f9fa, #e9ecef);">
-  <h3 align="center"><img src="https://img.shields.io/badge/-PROFESSIONAL%20CYCLING-313131?style=flat-square"/> ANALYSIS</h3>
-  <hr style="border: 1px solid #F7931E;">
-  <p align="center" style="color: #212529;">Applied data mining techniques including cleaning, imputation, transformation, anomaly detection, and clustering to analyze cycling data and predict rider performance.</p>
-  <div align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Data_Mining-F7931E?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Machine_Learning-025E8C?style=for-the-badge" />
-  </div>
+<!-- Personal Web Application Project -->
+<div style="margin: 30px 0; padding: 20px; border-radius: 15px; background: rgba(255, 255, 255, 0.7); box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);">
+    <div style="display: flex; align-items: center; justify-content: center; margin-bottom: 15px;">
+        <div style="height: 25px; width: 5px; background-color: #FF3E00; margin-right: 10px;"></div>
+        <h3 style="color: #2F3542; font-family: 'Courier New', monospace; font-size: 18px; margin: 0;">PERSONAL WEB APPLICATION</h3>
+        <div style="height: 25px; width: 5px; background-color: #FF3E00; margin-left: 10px;"></div>
+    </div>
+    <div style="position: relative; margin: 20px 0;">
+        <div style="position: absolute; height: 1px; width: 80%; top: 50%; left: 10%; background: linear-gradient(to right, transparent, #FF3E00, transparent);"></div>
+    </div>
+    <p style="color: #333; font-family: 'Georgia', serif; line-height: 1.6; padding: 0 15px; text-align: center;">
+        Developed a personal website using Svelte and Django with PostgreSQL database integration. Deployed on AWS using Nginx and Apache.
+    </p>
+    <div style="margin-top: 15px; text-align: center;">
+        <div style="display: inline-block; margin: 2px; padding: 4px 12px; background: #ffeee6; border-radius: 4px; font-size: 12px; border-left: 3px solid #FF3E00;">Svelte</div>
+        <div style="display: inline-block; margin: 2px; padding: 4px 12px; background: #e6fff0; border-radius: 4px; font-size: 12px; border-left: 3px solid #092E20;">Django</div>
+        <div style="display: inline-block; margin: 2px; padding: 4px 12px; background: #e6eeff; border-radius: 4px; font-size: 12px; border-left: 3px solid #4169E1;">PostgreSQL</div>
+        <div style="display: inline-block; margin: 2px; padding: 4px 12px; background: #edefef; border-radius: 4px; font-size: 12px; border-left: 3px solid #232F3E;">AWS</div>
+    </div>
 </div>
 
-</td>
-<td width="50%" align="center">
+<div style="margin: 30px auto; width: 70%; height: 1px; background: linear-gradient(to right, transparent, #6495ED 50%, transparent);"></div>
 
-<div style="border: 1px solid #cccccc; border-radius: 10px; padding: 15px; background: linear-gradient(145deg, #f8f9fa, #e9ecef);">
-  <h3 align="center"><img src="https://img.shields.io/badge/-FILE%20MANAGEMENT-313131?style=flat-square"/> SYSTEM</h3>
-  <hr style="border: 1px solid #A8B9CC;">
-  <p align="center" style="color: #212529;">Designed a concurrent file management protocol in C with socket programming to handle multiple clients, supporting file operations with error handling and cache management.</p>
-  <div align="center">
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-    <img src="https://img.shields.io/badge/Socket_Programming-6C7B8B?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Multi_threading-5C3566?style=for-the-badge" />
-  </div>
+<!-- Cycling Analysis Project -->
+<div style="margin: 30px 0; padding: 20px; border-radius: 15px; background: rgba(255, 255, 255, 0.7); box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);">
+    <div style="display: flex; align-items: center; justify-content: center; margin-bottom: 15px;">
+        <div style="height: 25px; width: 5px; background-color: #F7931E; margin-right: 10px;"></div>
+        <h3 style="color: #2F3542; font-family: 'Courier New', monospace; font-size: 18px; margin: 0;">PROFESSIONAL CYCLING ANALYSIS</h3>
+        <div style="height: 25px; width: 5px; background-color: #F7931E; margin-left: 10px;"></div>
+    </div>
+    <div style="position: relative; margin: 20px 0;">
+        <div style="position: absolute; height: 1px; width: 80%; top: 50%; left: 10%; background: linear-gradient(to right, transparent, #F7931E, transparent);"></div>
+    </div>
+    <p style="color: #333; font-family: 'Georgia', serif; line-height: 1.6; padding: 0 15px; text-align: center;">
+        Applied data mining techniques including cleaning, imputation, transformation, anomaly detection, and clustering to analyze cycling data and predict rider performance.
+    </p>
+    <div style="margin-top: 15px; text-align: center;">
+        <div style="display: inline-block; margin: 2px; padding: 4px 12px; background: #e6effe; border-radius: 4px; font-size: 12px; border-left: 3px solid #3776AB;">Python</div>
+        <div style="display: inline-block; margin: 2px; padding: 4px 12px; background: #fff4e6; border-radius: 4px; font-size: 12px; border-left: 3px solid #F7931E;">Data Mining</div>
+        <div style="display: inline-block; margin: 2px; padding: 4px 12px; background: #e6f0ff; border-radius: 4px; font-size: 12px; border-left: 3px solid #025E8C;">Machine Learning</div>
+    </div>
 </div>
 
-</td>
-</tr>
-</table>
+<!-- File Management System Project -->
+<div style="margin: 30px 0; padding: 20px; border-radius: 15px; background: rgba(255, 255, 255, 0.7); box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);">
+    <div style="display: flex; align-items: center; justify-content: center; margin-bottom: 15px;">
+        <div style="height: 25px; width: 5px; background-color: #A8B9CC; margin-right: 10px;"></div>
+        <h3 style="color: #2F3542; font-family: 'Courier New', monospace; font-size: 18px; margin: 0;">FILE MANAGEMENT SYSTEM</h3>
+        <div style="height: 25px; width: 5px; background-color: #A8B9CC; margin-left: 10px;"></div>
+    </div>
+    <div style="position: relative; margin: 20px 0;">
+        <div style="position: absolute; height: 1px; width: 80%; top: 50%; left: 10%; background: linear-gradient(to right, transparent, #A8B9CC, transparent);"></div>
+    </div>
+    <p style="color: #333; font-family: 'Georgia', serif; line-height: 1.6; padding: 0 15px; text-align: center;">
+        Designed a concurrent file management protocol in C with socket programming to handle multiple clients, supporting file operations with error handling and cache management.
+    </p>
+    <div style="margin-top: 15px; text-align: center;">
+        <div style="display: inline-block; margin: 2px; padding: 4px 12px; background: #f0f2f5; border-radius: 4px; font-size: 12px; border-left: 3px solid #A8B9CC;">C</div>
+        <div style="display: inline-block; margin: 2px; padding: 4px 12px; background: #eceef2; border-radius: 4px; font-size: 12px; border-left: 3px solid #6C7B8B;">Socket Programming</div>
+        <div style="display: inline-block; margin: 2px; padding: 4px 12px; background: #efedf5; border-radius: 4px; font-size: 12px; border-left: 3px solid #5C3566;">Multi-threading</div>
+    </div>
+</div>
+
+<div style="margin: 30px auto; width: 70%; height: 2px; background: linear-gradient(to right, transparent, #6495ED 50%, transparent);"></div>
+
+<pre style="font-family: 'Courier New', monospace; color: #333; text-align: center; line-height: 1.2; font-size: 10px;">
+  _____           _           _       
+ |  __ \         (_)         | |      
+ | |__) | __ ___  _  ___  ___| |_ ___ 
+ |  ___/ '__/ _ \| |/ _ \/ __| __/ __|
+ | |   | | | (_) | |  __/ (__| |_\__ \
+ |_|   |_|  \___/| |\___|\___|\__|___/
+               _/ |                   
+              |__/                    
+</pre>
+
+</div>
 
 ## Performance Analytics
 
