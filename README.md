@@ -366,15 +366,6 @@ timeline
   </table>
   
   <em>Focusing on mastering intelligent systems through reinforcement learning while expanding my full-stack and cloud infrastructure expertise.</em>
-
-  <pre align="center">
-    _____                 _                   
-   / ____|               | |                  
-  | |     _   _ _ __ ___ | |_ _   _ _ __ ___ 
-  | |    | | | | '__/ _ \| __| | | | '__/ _ \
-  | |____| |_| | | | (_) | |_| |_| | | |  __/
-   \_____|\__,_|_|  \___/ \__|\__,_|_|  \___|
-  </pre>
 </div>
 
 ## Performance Analytics
