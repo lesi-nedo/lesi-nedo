@@ -125,7 +125,7 @@ My name is **Oleksiy Nedobichuk**, I'm graduating in 2025 with a Master's degree
 
 
 <div align="left">
-  <img src="./assets/icons/horizontal-line-svgrepo-com.svg" width="15%" alt="Horizontal Line" />
+  <img src="./assets/icons/horizontal-line-svgrepo-com.svg" width="18%" alt="Horizontal Line" />
 
 
 
