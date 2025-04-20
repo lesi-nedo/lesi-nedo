@@ -18,7 +18,7 @@ My name is **Oleksiy Nedobichuk**, I'm graduating in 2025 with a Master's degree
     </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="./assets/icons/iconmonstr-cv-4.svg" target="_blank">
         <img src="./assets/icons/iconmonstr-cv-4.svg" alt="CV" width="30" height="30">
-    </a>>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 <img src="./assets/icons/horizontal-line-svgrepo-com.svg" width="2%" alt="Horizontal Line" />
