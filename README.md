@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" alt="Coding Animation" width="500"/>
-  <h1>OLEKSIY NEDOBOIYCHUK</h1>
-  <h3>AI & ML Specialist | Full-Stack Developer | Problem Solver</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=4000&pause=1000&color=6495ED&center=true&vCenter=true&width=600&height=70&lines=Hello+World!+I'm+Oleksiy;AI+%26+ML+Enthusiast;Full-Stack+Developer;Problem+Solver" />
 </div>
 
 <div align="center">
@@ -13,692 +11,211 @@
 
 </div>
 
-## About Me
-
-<div class="about-container">
-  <div class="about-text">
-    <p>Dedicated and passionate AI specialist with full-stack development expertise. Currently pursuing my MSc in AI at the University of Pisa, where I'm researching advanced machine learning techniques and neural networks.</p>
-    <p>I thrive on solving complex problems and turning ambitious ideas into elegant technical solutions. My background spans from low-level systems programming to high-level AI model development.</p>
-    <p><i>"Not all who wander through code are lost"</i></p>
-  </div>
-  <div class="about-stats">
-    <table class="stat-table">
-      <tr>
-        <td><b>LOCATION:</b></td>
-        <td>Pisa, Italy</td>
-      </tr>
-      <tr>
-        <td><b>EDUCATION:</b></td>
-        <td>
-          MSc Computer Science (AI) - University of Pisa<br>
-          BSc Computer Science - University of Pisa
-        </td>
-      </tr>
-      <tr>
-        <td><b>LANGUAGES:</b></td>
-        <td>English, Italian, Ukrainian</td>
-      </tr>
-      <tr>
-        <td><b>SPECIALTIES:</b></td>
-        <td>
-          AI/ML Development<br>
-          Neural Network Architecture<br>
-          Full-Stack Development<br>
-          Algorithm Design & Optimization
-        </td>
-      </tr>
-    </table>
-  </div>
-</div>
+## 🤖 About Me
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif" alt="AI Brain" width="400"/>
+  <table>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://img.shields.io/badge/LEVEL%2042-TECH%20WIZARD-blueviolet?style=for-the-badge" />
+        <h3>⚡ OLEKSIY NEDOBOIYCHUK ⚡</h3>
+        <em>"Not all who wander through code are lost"</em>
+      </td>
+    </tr>
+    <tr>
+      <td><b>CLASS:</b></td>
+      <td>Full-Stack Developer with AI specialization</td>
+    </tr>
+    <tr>
+      <td><b>ORIGIN:</b></td>
+      <td>Pisa, Italy 🇮🇹</td>
+    </tr>
+    <tr>
+      <td><b>TRAINING:</b></td>
+      <td>
+        MSc Computer Science (AI) - University of Pisa<br>
+        BSc Computer Science - University of Pisa
+      </td>
+    </tr>
+    <tr>
+      <td><b>SPECIAL ABILITIES:</b></td>
+      <td>
+        <span title="AI">🧠</span> AI Whisperer<br>
+        <span title="Machine Learning">🤖</span> Algorithm Tamer<br>
+        <span title="Reinforcement Learning">🎮</span> Digital Reinforcer<br>
+        <span title="Full-Stack Development">🏗️</span> Stack Constructor<br>
+        <span title="Problem Solving">🧩</span> Puzzle Master
+      </td>
+    </tr>
+    <tr>
+      <td><b>COMMUNICATION:</b></td>
+      <td>English 🇬🇧, Italian 🇮🇹, Ukrainian 🇺🇦, Russian 🇷🇺</td>
+    </tr>
+    <tr>
+      <td><b>SECRET POWER:</b></td>
+      <td>Can debug code with just a glance 👀✨</td>
+    </tr>
+    <tr>
+      <td><b>WEAKNESS:</b></td>
+      <td>Coffee supply interruptions ☕</td>
+    </tr>
+    <tr>
+      <td><b>QUEST:</b></td>
+      <td>A dedicated and passionate programmer, eager to contribute and grow</td>
+    </tr>
+  </table>
 </div>
 
-## Technical Arsenal
-
-<div class="skills-container">
-  <div class="skills-category">
-    <h3>PROGRAMMING</h3>
-    <div class="skill-grid">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python" />
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" alt="C++" />
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript" />
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" alt="TypeScript" />
-    </div>
-  </div>
-  
-  <div class="skills-category">
-    <h3>AI & MACHINE LEARNING</h3>
-    <div class="skill-bar-container">
-      <div class="skill-bar">
-        <span class="skill-name">PyTorch</span>
-        <div class="bar"><div class="fill" style="width: 90%"></div></div>
-      </div>
-      <div class="skill-bar">
-        <span class="skill-name">TensorFlow</span>
-        <div class="bar"><div class="fill" style="width: 85%"></div></div>
-      </div>
-      <div class="skill-bar">
-        <span class="skill-name">scikit-learn</span>
-        <div class="bar"><div class="fill" style="width: 88%"></div></div>
-      </div>
-      <div class="skill-bar">
-        <span class="skill-name">Reinforcement Learning</span>
-        <div class="bar"><div class="fill" style="width: 78%"></div></div>
-      </div>
-    </div>
-  </div>
-  
-  <div class="skills-category">
-    <h3>WEB & DEVELOPMENT</h3>
-    <div class="skill-grid">
-      <img src="https://techstack-generator.vercel.app/django-icon.svg" width="65" height="65" alt="Django" />
-      <img src="https://techstack-generator.vercel.app/angular-icon.svg" width="65" height="65" alt="Angular" />
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker" />
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" alt="AWS" />
-    </div>
-  </div>
-</div>
-
-## Featured Projects
-
-<div class="projects-container">
-  <div class="project-card">
-    <div class="project-header">
-      <h3>Neural Network Architecture</h3>
-      <div class="project-tags">
-        <span>ML</span>
-        <span>Python</span>
-        <span>NumPy</span>
-      </div>
-    </div>
-    <p>Advanced neural network framework built from scratch using only Python and NumPy. Implements forward/backward propagation with Nesterov momentum optimization and regularization techniques.</p>
-    <div class="project-visual">
-      <img src="https://media.giphy.com/media/3o7bufgPP70ra2ZVi8/giphy.gif" alt="Neural Network" width="100%"/>
-    </div>
-  </div>
-
-  <div class="project-card">
-    <div class="project-header">
-      <h3>ProbLog AI Agent</h3>
-      <div class="project-tags">
-        <span>AI</span>
-        <span>Probabilistic Programming</span>
-      </div>
-    </div>
-    <p>Intelligent agent using probabilistic logic programming that adapts to opponents through dynamic probability estimation. Outperformed conventional algorithms like MCTS and MinMax in competitive simulations.</p>
-    <div class="project-visual">
-      <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" alt="AI Code" width="100%"/>
-    </div>
-  </div>
-
-  <div class="project-card">
-    <div class="project-header">
-      <h3>Professional Cycling Analysis</h3>
-      <div class="project-tags">
-        <span>Data Mining</span>
-        <span>Machine Learning</span>
-      </div>
-    </div>
-    <p>Comprehensive data mining project analyzing cycling performance data through cleaning, anomaly detection, clustering, and predictive modeling to forecast athlete performance.</p>
-    <div class="project-visual">
-      <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" alt="Data Analysis" width="100%"/>
-    </div>
-  </div>
-</div>
-
-## Professional Evolution
-
-<div class="journey-container">
-  <div class="timeline">
-    <div class="timeline-item">
-      <div class="timeline-date">2019</div>
-      <div class="timeline-content">
-        <h4>Foundations: BSc Computer Science</h4>
-        <p>University of Pisa, Italy</p>
-        <p>Built strong CS fundamentals and discovered my passion for AI</p>
-      </div>
-    </div>
-    <div class="timeline-item">
-      <div class="timeline-date">2022</div>
-      <div class="timeline-content">
-        <h4>Full-Stack Developer at TAI Solutions</h4>
-        <p>Developed scalable enterprise applications using Spring Boot & Angular</p>
-        <p>Implemented responsive UIs and optimized backend services</p>
-      </div>
-    </div>
-    <div class="timeline-item">
-      <div class="timeline-date">2023</div>
-      <div class="timeline-content">
-        <h4>Advanced Studies: MSc in AI</h4>
-        <p>University of Pisa, Italy</p>
-        <p>Specialized research in Machine Learning, Neural Networks, and Reinforcement Learning</p>
-      </div>
-    </div>
-    <div class="timeline-item">
-      <div class="timeline-date">2025</div>
-      <div class="timeline-content">
-        <h4>Next Chapter: AI Engineering</h4>
-        <p>Expected Graduation</p>
-        <p>Preparing for advanced AI engineering roles in research or industry</p>
-      </div>
-    </div>
-  </div>
-  <div class="journey-visual">
-    <img src="https://media.giphy.com/media/RneIcLEosVuta/giphy.gif" alt="Career Growth" width="100%"/>
-  </div>
-</div>
-
-## Current Focus
+## 🚀 Skills
 
 <div align="center">
-  <h3>Technologies I'm exploring and mastering</h3>
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="500" alt="Deep Learning"/>
+  
+| Category | Skills |
+|----------|--------|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) |
+| **Frameworks** | ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white) ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white) ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white) |
+| **ML/AI** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white) |
+| **Data** | ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) |
+
 </div>
 
-<div class="focus-grid">
-  <div class="focus-item">
-    <h4>Advanced Neural Architectures</h4>
-    <div class="progress-container">
-      <div class="progress-bar" style="width: 78%"></div>
-      <span>78%</span>
-    </div>
-    <p>Building sophisticated neural networks for complex problem domains</p>
-  </div>
-  
-  <div class="focus-item">
-    <h4>Modern JavaScript Ecosystems</h4>
-    <div class="progress-container">
-      <div class="progress-bar" style="width: 85%"></div>
-      <span>85%</span>
-    </div>
-    <p>Mastering asynchronous patterns and modern frameworks</p>
-  </div>
-  
-  <div class="focus-item">
-    <h4>Cloud-Native Development</h4>
-    <div class="progress-container">
-      <div class="progress-bar" style="width: 65%"></div>
-      <span>65%</span>
-    </div>
-    <p>Designing and deploying containerized applications at scale</p>
-  </div>
-  
-  <div class="focus-item">
-    <h4>Kubernetes Orchestration</h4>
-    <div class="progress-container">
-      <div class="progress-bar" style="width: 42%"></div>
-      <span>42%</span>
-    </div>
-    <p>Learning how to manage complex microservice architectures</p>
-  </div>
-</div>
+## 🔥 Projects
 
-## Let's Connect
+<details>
+<summary>🧠 <b>Neural Network From Scratch</b></summary>
+<br>
+Designed a flexible Neural Network using only Python and NumPy, implementing forward and backward propagation with Nesterov momentum optimization. Added L1/L2 regularization and grid search for hyperparameter tuning.
+<br>
+<i>Technologies: Python, NumPy</i>
+</details>
+
+<details>
+<summary>🤖 <b>ProbLog Based AI Agent</b></summary>
+<br>
+Developed an AI agent using ProbLog for a 2D fighting game that adapts to opponents through dynamic probability estimation. Outperformed MCTS, MinMax, and Prolog-based agents in simulations.
+<br>
+<i>Technologies: ProbLog, Probabilistic Programming</i>
+</details>
+
+<details>
+<summary>📱 <b>Telegram Bot with GitHub Integration</b></summary>
+<br>
+Created a Telegram bot that integrates with GitHub webhooks to provide repository event notifications and respond to user commands.
+<br>
+<i>Technologies: Python, python-telegram-bot, GitHub API</i>
+</details>
+
+<details>
+<summary>🌐 <b>Personal Web Application</b></summary>
+<br>
+Developed a personal website using Svelte and Django with PostgreSQL database integration. Deployed on AWS using Nginx and Apache.
+<br>
+<i>Technologies: Svelte, Django, PostgreSQL, AWS, Nginx, Apache</i>
+</details>
+
+<details>
+<summary>📊 <b>Professional Cycling Analysis</b></summary>
+<br>
+Applied data mining techniques including cleaning, imputation, transformation, anomaly detection, and clustering to analyze cycling data and predict rider performance.
+<br>
+<i>Technologies: Python, Data Mining, Machine Learning</i>
+</details>
+
+<details>
+<summary>🖥️ <b>File Management System</b></summary>
+<br>
+Designed a concurrent file management protocol in C with socket programming to handle multiple clients, supporting file operations with error handling and cache management.
+<br>
+<i>Technologies: C, Socket Programming, Multi-threading</i>
+</details>
+
+## 💼 Professional Journey
 
 <div align="center">
-  <p>Currently seeking collaboration on advanced AI projects and engaging in meaningful technical discussions.</p>
-  <img src="https://media.giphy.com/media/ZZkCo8zKWtt2ZgozfX/giphy.gif" width="400" alt="Collaboration"/>
-  
-  <div class="connect-grid">
-    <a href="https://linkedin.com/in/lesi-nedo/" class="connect-btn">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-      <span>Professional Network</span>
-    </a>
-    <a href="http://nedo.im/blog/" class="connect-btn">
-      <img src="https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
-      <span>Technical Blog</span>
-    </a>
-    <a href="mailto:oleksiy12345@live.it" class="connect-btn">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-      <span>Direct Contact</span>
-    </a>
-    <a href="https://github.com/lesi-nedo?tab=repositories" class="connect-btn">
-      <img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white">
-      <span>Code Portfolio</span>
-    </a>
-  </div>
+  <img src="https://img.shields.io/badge/Experience-Professional%20Growth-blue?style=for-the-badge" alt="Experience"/>
 </div>
 
-<style>
-:root {
-  /* Light theme colors */
-  --bg-color: #f8fafc;
-  --text-color: #334155;
-  --heading-color: #1e293b;
-  --primary-color: #3b82f6;
-  --secondary-color: #64748b;
-  --accent-color: #818cf8;
-  --card-bg: #ffffff;
-  --border-color: #e2e8f0;
-  --shadow: 0 1px 3px rgba(0,0,0,0.1);
-  --hover-shadow: 0 4px 10px rgba(59,130,246,0.15);
-  --tag-bg: #f0f7ff;
-  --tag-color: #3b82f6;
-  --timeline-bg: #f1f5f9;
-}
+```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#6495ED', 'primaryTextColor': '#fff', 'primaryBorderColor': '#6495ED', 'lineColor': '#F8B229', 'secondaryColor': '#006100', 'tertiaryColor': '#444444' }}}%%
+timeline
+    title My Professional Journey
+    2019 : Started BSc in Computer Science 🎓
+         : University of Pisa, Italy
+         : Core CS fundamentals & programming
+    2022 : Full-Stack Developer 💻
+         : TAI Solutions S.R.L
+         : Developed enterprise applications with Spring Boot & Angular
+         : Built scalable backend services & responsive UIs
+    2023 : Started MSc in AI 🧠
+         : University of Pisa, Italy
+         : Focus: Machine Learning & Neural Networks
+         : Research in Reinforcement Learning
+    2025 : Expected Graduation 🚀
+         : Ready for advanced AI Engineering roles
+```
 
-[data-theme="dark"] {
-  --bg-color: #0f172a;
-  --text-color: #cbd5e1;
-  --heading-color: #f1f5f9;
-  --primary-color: #60a5fa;
-  --secondary-color: #94a3b8;
-  --accent-color: #818cf8;
-  --card-bg: #1e293b;
-  --border-color: #334155;
-  --shadow: 0 1px 3px rgba(0,0,0,0.4);
-  --hover-shadow: 0 4px 10px rgba(96,165,250,0.2);
-  --tag-bg: #334155;
-  --tag-color: #60a5fa;
-  --timeline-bg: #1e293b;
-}
+## 📊 Performance Analytics
 
-/* Base styling */
-body {
-  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-  line-height: 1.6;
-  color: var(--text-color);
-  background: var(--bg-color);
-  transition: background-color 0.3s ease, color 0.3s ease;
-  margin: 0;
-  padding: 20px;
-}
-
-h1, h2, h3, h4 {
-  font-weight: 600;
-  color: var(--heading-color);
-}
-
-h2 {
-  border-bottom: 2px solid var(--primary-color);
-  padding-bottom: 8px;
-  margin-top: 40px;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  font-size: 1.5rem;
-}
-
-a {
-  color: var(--primary-color);
-  text-decoration: none;
-  transition: color 0.2s;
-}
-
-a:hover {
-  color: var(--accent-color);
-}
-
-/* About section */
-.about-container {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 30px;
-  margin: 30px 0;
-}
-
-@media (max-width: 768px) {
-  .about-container {
-    grid-template-columns: 1fr;
-  }
-}
-
-.about-text {
-  font-size: 1.1em;
-  line-height: 1.8;
-}
-
-.stat-table {
-  width: 100%;
-  border-collapse: separate;
-  border-spacing: 0 8px;
-}
-
-.stat-table td:first-child {
-  font-weight: bold;
-  color: var(--primary-color);
-  width: 30%;
-}
-
-/* Skills section */
-.skills-container {
-  margin: 30px 0;
-}
-
-.skills-category {
-  margin-bottom: 30px;
-}
-
-.skills-category h3 {
-  color: var(--primary-color);
-  margin-bottom: 15px;
-  border-left: 4px solid var(--primary-color);
-  padding-left: 10px;
-}
-
-.skill-grid {
-  display: flex;
-  gap: 20px;
-  flex-wrap: wrap;
-  justify-content: flex-start;
-}
-
-.skill-bar-container {
-  display: flex;
-  flex-direction: column;
-  gap: 15px;
-}
-
-.skill-bar {
-  display: flex;
-  align-items: center;
-}
-
-.skill-name {
-  width: 140px;
-  font-weight: 500;
-}
-
-.bar {
-  flex-grow: 1;
-  height: 8px;
-  background: var(--border-color);
-  border-radius: 4px;
-  overflow: hidden;
-}
-
-.fill {
-  height: 100%;
-  background: linear-gradient(90deg, var(--primary-color), var(--accent-color));
-  border-radius: 4px;
-}
-
-/* Projects section */
-.projects-container {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
-  gap: 30px;
-  margin: 30px 0;
-}
-
-@media (max-width: 768px) {
-  .projects-container {
-    grid-template-columns: 1fr;
-  }
-}
-
-.project-card {
-  background: var(--card-bg);
-  border-radius: 12px;
-  padding: 20px;
-  box-shadow: var(--shadow);
-  transition: transform 0.3s, box-shadow 0.3s;
-  border: 1px solid var(--border-color);
-}
-
-.project-card:hover {
-  transform: translateY(-5px);
-  box-shadow: var(--hover-shadow);
-}
-
-.project-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: flex-start;
-  margin-bottom: 15px;
-}
-
-.project-tags {
-  display: flex;
-  gap: 5px;
-}
-
-.project-tags span {
-  background: var(--tag-bg);
-  color: var(--tag-color);
-  padding: 2px 8px;
-  border-radius: 4px;
-  font-size: 0.8em;
-}
-
-.project-visual {
-  margin-top: 15px;
-  border-radius: 8px;
-  overflow: hidden;
-  box-shadow: var(--shadow);
-}
-
-/* Journey timeline */
-.journey-container {
-  display: grid;
-  grid-template-columns: 3fr 2fr;
-  gap: 30px;
-  margin: 30px 0;
-}
-
-@media (max-width: 768px) {
-  .journey-container {
-    grid-template-columns: 1fr;
-  }
-}
-
-.timeline {
-  display: flex;
-  flex-direction: column;
-  position: relative;
-}
-
-.timeline::before {
-  content: '';
-  position: absolute;
-  left: 20px;
-  top: 0;
-  height: 100%;
-  width: 2px;
-  background: var(--primary-color);
-}
-
-.timeline-item {
-  display: flex;
-  margin-bottom: 30px;
-  position: relative;
-}
-
-.timeline-date {
-  width: 40px;
-  height: 40px;
-  background: var(--primary-color);
-  color: white;
-  border-radius: 50%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-weight: bold;
-  z-index: 1;
-  font-size: 0.9em;
-}
-
-.timeline-content {
-  margin-left: 20px;
-  padding: 15px;
-  background: var(--timeline-bg);
-  border-radius: 12px;
-  flex-grow: 1;
-}
-
-.timeline-content h4 {
-  margin-top: 0;
-  color: var(--primary-color);
-}
-
-.journey-visual {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-/* Focus Grid */
-.focus-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-  gap: 25px;
-  margin: 30px 0;
-}
-
-@media (max-width: 768px) {
-  .focus-grid {
-    grid-template-columns: 1fr;
-  }
-}
-
-.focus-item {
-  background: var(--card-bg);
-  border-radius: 12px;
-  padding: 20px;
-  box-shadow: var(--shadow);
-  border: 1px solid var(--border-color);
-}
-
-.focus-item h4 {
-  color: var(--primary-color);
-  margin-top: 0;
-}
-
-.focus-item .progress-container {
-  position: relative;
-  height: 8px;
-  background: var(--border-color);
-  border-radius: 4px;
-  margin: 15px 0;
-  overflow: hidden;
-}
-
-.focus-item .progress-bar {
-  height: 100%;
-  background: linear-gradient(90deg, var(--primary-color), var(--accent-color));
-}
-
-.focus-item .progress-container span {
-  position: absolute;
-  right: 0;
-  top: -20px;
-  font-size: 0.9em;
-  color: var(--primary-color);
-}
-
-/* Connect section */
-.connect-grid {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 15px;
-  margin: 30px 0;
-}
-
-.connect-btn {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  padding: 15px;
-  text-decoration: none;
-  transition: transform 0.2s;
-  background: var(--card-bg);
-  border-radius: 12px;
-  width: 180px;
-  box-shadow: var(--shadow);
-  border: 1px solid var(--border-color);
-}
-
-.connect-btn:hover {
-  transform: scale(1.05);
-}
-
-.connect-btn span {
-  margin-top: 8px;
-  color: var(--secondary-color);
-  font-size: 0.9em;
-}
-
-/* Theme toggle */
-.theme-toggle {
-  position: fixed;
-  top: 20px;
-  right: 20px;
-  z-index: 1000;
-  background: var(--card-bg);
-  border: 1px solid var(--border-color);
-  border-radius: 50%;
-  width: 40px;
-  height: 40px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  cursor: pointer;
-  box-shadow: var(--shadow);
-  transition: background-color 0.3s;
-}
-
-.theme-toggle:hover {
-  background: var(--border-color);
-}
-
-.theme-toggle svg {
-  width: 20px;
-  height: 20px;
-  fill: var(--primary-color);
-}
-</style>
-
-<script>
-// Check for user theme preference
-function setTheme() {
-  // Check for saved theme preference or use system preference
-  const savedTheme = localStorage.getItem('theme');
-  const systemPrefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+<div align="center">
+  <p><img src="https://img.shields.io/badge/GitHub-Statistics-orange?style=for-the-badge" alt="GitHub Stats"/></p>
   
-  // Set theme based on saved preference or system preference
-  if (savedTheme === 'dark' || (!savedTheme && systemPrefersDark)) {
-    document.documentElement.setAttribute('data-theme', 'dark');
-    document.getElementById('themeIcon').innerHTML = '☀️';
-  } else {
-    document.documentElement.setAttribute('data-theme', 'light');
-    document.getElementById('themeIcon').innerHTML = '🌙';
-  }
-}
-
-// Toggle theme
-function toggleTheme() {
-  const currentTheme = document.documentElement.getAttribute('data-theme');
-  const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lesi-nedo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lesi-nedo&layout=compact&langs_count=7&theme=tokyonight"/>
   
-  document.documentElement.setAttribute('data-theme', newTheme);
-  localStorage.setItem('theme', newTheme);
-  
-  // Update icon
-  document.getElementById('themeIcon').innerHTML = newTheme === 'dark' ? '☀️' : '🌙';
-}
-
-// When page loads
-window.onload = function() {
-  setTheme();
-  
-  // Add event listener for system theme changes
-  if (window.matchMedia) {
-    window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', setTheme);
-  }
-}
-</script>
-
-<!-- Theme toggle button -->
-<div class="theme-toggle" onclick="toggleTheme()" title="Toggle theme">
-  <span id="themeIcon">🌙</span>
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lesi-nedo&theme=tokyonight" alt="GitHub streak stats" />
+  </p>
 </div>
+
+## 🔍 Current Focus
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python" />
+        <br>Advanced ML
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript" />
+        <br>Modern JS
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker" />
+        <br>DevOps
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="65" height="65" alt="Kubernetes" />
+        <br>Orchestration
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" alt="AWS" />
+        <br>Cloud Native
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 📫 Connect with Me
+
+<div align="center">
+  <h4>Let's build something amazing together! 👨‍💻</h4>
+  
+  <a href="https://linkedin.com/in/lesi-nedo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="http://nedo.im/blog/"><img src="https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"></a>
+  <a href="mailto:oleksiy12345@live.it"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/lesi-nedo"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+</div>
+
+<br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=lesi-nedo&color=blueviolet&style=flat-square&label=Profile+Visits" />
   
-  <p><small><i>"Code is like humor. When you have to explain it, it's bad."</i> — Cory House</small></p>
+  <p><small>💡 <i>"The function of good software is to make the complex appear to be simple."</i> — Grady Booch</small></p>
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" width="100%"/>
 </div>
