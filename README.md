@@ -32,75 +32,71 @@
 
 ## About Me
 
-<div align="center" style="background: linear-gradient(135deg, #f5f7fa 0%, #e8ecf1 100%); border-radius: 20px; padding: 25px; box-shadow: 0 8px 32px rgba(31, 38, 135, 0.1);">
-
-<div style="border-left: 4px solid #6495ED; padding-left: 15px; margin: 20px 0; font-style: italic;">
-    <span style="color: #333; font-family: 'Georgia', serif; font-size: 18px;">Forged in the digital fires of Pisa, trained in the arcane arts of AI.</span>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2F3542&center=true&vCenter=true&width=435&lines=LEVEL+42+TECH+WIZARD;FULL-STACK+DEVELOPER;AI+SPECIALIST;ALGORITHM+ALCHEMIST" alt="Typing SVG" />
+  
+  > *Forged in the digital fires of Pisa, trained in the arcane arts of AI.*
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2F3542&center=true&vCenter=true&width=435&lines=LEVEL+42+TECH+WIZARD;FULL-STACK+DEVELOPER;AI+SPECIALIST;ALGORITHM+ALCHEMIST" alt="Typing SVG" />
-
-<div style="position: relative; margin: 30px 0;">
-    <div style="position: absolute; height: 1px; width: 60%; top: 50%; left: 20%; background: linear-gradient(to right, transparent, #6495ED, transparent);"></div>
-    <span style="background: #f5f7fa; padding: 0 15px; position: relative; color: #2F3542; font-family: 'Courier New', monospace;">/profile data/</span>
-</div>
-
-<table style="width: 90%; border-collapse: separate; border-spacing: 0; margin: 20px auto; border: none;">
-    <tr style="background: transparent;">
-        <th style="font-family: 'Courier New', monospace; color: #2F3542; text-align: left; padding: 12px; border-bottom: 1px solid #ddd;">Attribute</th>
-        <th style="font-family: 'Courier New', monospace; color: #2F3542; text-align: left; padding: 12px; border-bottom: 1px solid #ddd;">Value</th>
-    </tr>
-    <tr style="background: rgba(255, 255, 255, 0.6);">
-        <td style="color: #2F3542; font-weight: bold; padding: 10px; border-bottom: 1px solid #eee;">Class</td>
-        <td style="color: #2F3542; padding: 10px; border-bottom: 1px solid #eee; font-family: 'Courier New', monospace;">Junior Software Engineer</td>
-    </tr>
-    <tr style="background: rgba(245, 247, 250, 0.6);">
-        <td style="color: #2F3542; font-weight: bold; padding: 10px; border-bottom: 1px solid #eee;">Origin</td>
-        <td style="color: #2F3542; padding: 10px; border-bottom: 1px solid #eee; font-family: 'Courier New', monospace;">Pisa, Italy</td>
-    </tr>
-    <tr style="background: rgba(255, 255, 255, 0.6);">
-        <td style="color: #2F3542; font-weight: bold; padding: 10px; border-bottom: 1px solid #eee;">Training</td>
-        <td style="color: #2F3542; padding: 10px; border-bottom: 1px solid #eee; font-family: 'Courier New', monospace;">MSc Computer Science (AI Focus) - <i>University of Pisa</i><br>BSc Computer Science - <i>University of Pisa</i></td>
-    </tr>
-    <tr style="background: rgba(245, 247, 250, 0.6);">
-        <td style="color: #2F3542; font-weight: bold; padding: 10px; border-bottom: 1px solid #eee;">Abilities</td>
-        <td style="color: #2F3542; padding: 10px; border-bottom: 1px solid #eee;">
-            <div style="display: inline-block; margin: 2px; padding: 4px 8px; background: #e8ecf1; border-radius: 4px; font-size: 12px;">AI Whisperer</div>
-            <div style="display: inline-block; margin: 2px; padding: 4px 8px; background: #e0e3e8; border-radius: 4px; font-size: 12px;">Algorithm Tamer</div>
-            <div style="display: inline-block; margin: 2px; padding: 4px 8px; background: #d8dbe2; border-radius: 4px; font-size: 12px;">Digital Reinforcer</div>
-            <div style="display: inline-block; margin: 2px; padding: 4px 8px; background: #d0d4dc; border-radius: 4px; font-size: 12px;">Stack Constructor</div>
-            <div style="display: inline-block; margin: 2px; padding: 4px 8px; background: #c8ccd5; border-radius: 4px; font-size: 12px;">Puzzle Master</div>
-        </td>
-    </tr>
-    <tr style="background: rgba(255, 255, 255, 0.6);">
-        <td style="color: #2F3542; font-weight: bold; padding: 10px; border-bottom: 1px solid #eee;">Languages</td>
-        <td style="color: #2F3542; padding: 10px; border-bottom: 1px solid #eee;">
-            <div style="display: inline-block; margin: 2px; padding: 4px 8px; background: #e6effe; border-radius: 4px; font-size: 12px; border-left: 3px solid #4a69bd;">English: Fluent</div>
-            <div style="display: inline-block; margin: 2px; padding: 4px 8px; background: #e6fff2; border-radius: 4px; font-size: 12px; border-left: 3px solid #2ecc71;">Italian: Proficient</div>
-            <div style="display: inline-block; margin: 2px; padding: 4px 8px; background: #fff8e6; border-radius: 4px; font-size: 12px; border-left: 3px solid #f1c40f;">Ukrainian: Native</div>
-        </td>
-    </tr>
-    <tr style="background: rgba(245, 247, 250, 0.6);">
-        <td style="color: #2F3542; font-weight: bold; padding: 10px; border-bottom: 1px solid #eee;">Secret Power</td>
-        <td style="color: #2F3542; padding: 10px; border-bottom: 1px solid #eee; font-style: italic; font-family: 'Georgia', serif;">Patience</td>
-    </tr>
-    <tr style="background: rgba(255, 255, 255, 0.6);">
-        <td style="color: #2F3542; font-weight: bold; padding: 10px; border-bottom: 1px solid #eee;">Weakness</td>
-        <td style="color: #2F3542; padding: 10px; border-bottom: 1px solid #eee; font-family: 'Courier New', monospace;">Critical dependency on caffeine infusions</td>
-    </tr>
-    <tr style="background: rgba(245, 247, 250, 0.6);">
-        <td style="color: #2F3542; font-weight: bold; padding: 10px; border-bottom: 1px solid #eee;">Quest</td>
-        <td style="color: #2F3542; padding: 10px; border-bottom: 1px solid #eee; font-family: 'Georgia', serif;">
-            <div style="border-left: 3px solid #6495ED; padding-left: 10px;">
-                To weave elegant code, conquer complex challenges, and continuously evolve. Seeking epic collaborations!
-            </div>
-        </td>
-    </tr>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/Class-Junior%20Software%20Engineer-6495ED?style=for-the-badge" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/Origin-Pisa,%20Italy-6495ED?style=for-the-badge" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://img.shields.io/badge/Training-MSc%20Computer%20Science%20(AI%20Focus)%20|%20University%20of%20Pisa-6495ED?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Training-BSc%20Computer%20Science%20|%20University%20of%20Pisa-6495ED?style=for-the-badge" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <h3>Abilities</h3>
+      <div>
+        <img src="https://img.shields.io/badge/AI%20Whisperer-e8ecf1?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Algorithm%20Tamer-e0e3e8?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Digital%20Reinforcer-d8dbe2?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Stack%20Constructor-d0d4dc?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Puzzle%20Master-c8ccd5?style=for-the-badge" />
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <h3>Languages</h3>
+      <div>
+        <img src="https://img.shields.io/badge/English-Fluent-4a69bd?style=for-the-badge&logoColor=white" />
+        <img src="https://img.shields.io/badge/Italian-Proficient-2ecc71?style=for-the-badge&logoColor=white" />
+        <img src="https://img.shields.io/badge/Ukrainian-Native-f1c40f?style=for-the-badge&logoColor=white" />
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>Secret Power</h3>
+      <img src="https://img.shields.io/badge/Patience-Legendary-6495ED?style=for-the-badge&logoColor=white" />
+    </td>
+    <td align="center">
+      <h3>☕ Weakness</h3>
+      <img src="https://img.shields.io/badge/Critical%20dependency%20on%20caffeine%20infusions-brown?style=for-the-badge&logo=coffeescript&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <h3>Quest</h3>
+      <img src="https://img.shields.io/badge/To%20weave%20elegant%20code,%20conquer%20complex%20challenges,%20and%20continuously%20evolve-6495ED?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Seeking%20epic%20collaborations!-6495ED?style=for-the-badge" />
+    </td>
+  </tr>
 </table>
 
-<div style="margin: 30px auto; width: 70%; height: 2px; background: linear-gradient(to right, transparent, #6495ED 50%, transparent);"></div>
+<div align="center">
 
-<pre style="font-family: 'Courier New', monospace; color: #333; text-align: center; line-height: 1.2;">
+<pre align="center">
      ___           ___           ___           ___     
     /\  \         /\__\         /\  \         /\  \    
    /::\  \       /:/ _/_       /::\  \       /::\  \   
@@ -234,47 +230,43 @@ timeline
   <h2><span style="color: #6495ED;">DIGITAL CREATIONS</span></h2>
 </div>
 
-<table width="100%" border="0" align="center">
-<tr>
-<td width="50%" align="center">
+<div align="center">
 
-<div style="border: 1px solid #cccccc; border-radius: 10px; padding: 15px; background: linear-gradient(145deg, #f8f9fa, #e9ecef);">
-  <h3 align="center"><img src="https://img.shields.io/badge/-NEURAL%20NETWORK-313131?style=flat-square"/> FROM SCRATCH</h3>
+<!-- Neural Network Project -->
+<details style="width: 90%; margin: 10px auto; border: 1px solid #cccccc; border-radius: 10px; padding: 10px; background: linear-gradient(145deg, #f8f9fa, #e9ecef);">
+  <summary style="font-weight: bold; cursor: pointer; padding: 5px;">
+    <img src="https://img.shields.io/badge/-NEURAL%20NETWORK-313131?style=flat-square"/> FROM SCRATCH
+  </summary>
   <hr style="border: 1px solid #6495ED;">
   <p align="center" style="color: #212529;">Designed a flexible Neural Network using only Python and NumPy, implementing forward and backward propagation with Nesterov momentum optimization. Added L1/L2 regularization and grid search for hyperparameter tuning.</p>
   <div align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   </div>
-</div>
+</details>
 
-</td>
-<td width="50%" align="center">
-
-<div style="border: 1px solid #cccccc; border-radius: 10px; padding: 15px; background: linear-gradient(145deg, #f8f9fa, #e9ecef);">
-  <h3 align="center"><img src="https://img.shields.io/badge/-PROBLOG%20BASED-313131?style=flat-square"/> AI AGENT</h3>
+<!-- ProbLog AI Agent Project -->
+<details style="width: 90%; margin: 10px auto; border: 1px solid #cccccc; border-radius: 10px; padding: 10px; background: linear-gradient(145deg, #f8f9fa, #e9ecef);">
+  <summary style="font-weight: bold; cursor: pointer; padding: 5px;">
+    <img src="https://img.shields.io/badge/-PROBLOG%20BASED-313131?style=flat-square"/> AI AGENT
+  </summary>
   <hr style="border: 1px solid #DD0031;">
   <p align="center" style="color: #212529;">Developed an AI agent using ProbLog for a 2D fighting game that adapts to opponents through dynamic probability estimation. Outperformed MCTS, MinMax, and Prolog-based agents in simulations.</p>
   <div align="center">
     <img src="https://img.shields.io/badge/ProbLog-AA0000?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Probabilistic_Programming-8A2BE2?style=for-the-badge" />
   </div>
+</details>
+
+<div style="margin: 15px;">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="70%">
 </div>
 
-</td>
-</tr>
-
-<tr><td colspan="2" align="center">
-  <div style="margin: 10px;">
-    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="70%">
-  </div>
-</td></tr>
-
-<tr>
-<td width="50%" align="center">
-
-<div style="border: 1px solid #cccccc; border-radius: 10px; padding: 15px; background: linear-gradient(145deg, #f8f9fa, #e9ecef);">
-  <h3 align="center"><img src="https://img.shields.io/badge/-TELEGRAM%20BOT-313131?style=flat-square"/> WITH GITHUB INTEGRATION</h3>
+<!-- Telegram Bot Project -->
+<details style="width: 90%; margin: 10px auto; border: 1px solid #cccccc; border-radius: 10px; padding: 10px; background: linear-gradient(145deg, #f8f9fa, #e9ecef);">
+  <summary style="font-weight: bold; cursor: pointer; padding: 5px;">
+    <img src="https://img.shields.io/badge/-TELEGRAM%20BOT-313131?style=flat-square"/> WITH GITHUB INTEGRATION
+  </summary>
   <hr style="border: 1px solid #0088cc;">
   <p align="center" style="color: #212529;">Created a Telegram bot that integrates with GitHub webhooks to provide repository event notifications and respond to user commands.</p>
   <div align="center">
@@ -282,13 +274,13 @@ timeline
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub_API-181717?style=for-the-badge&logo=github&logoColor=white" />
   </div>
-</div>
+</details>
 
-</td>
-<td width="50%" align="center">
-
-<div style="border: 1px solid #cccccc; border-radius: 10px; padding: 15px; background: linear-gradient(145deg, #f8f9fa, #e9ecef);">
-  <h3 align="center"><img src="https://img.shields.io/badge/-PERSONAL%20WEB-313131?style=flat-square"/> APPLICATION</h3>
+<!-- Personal Web Application Project -->
+<details style="width: 90%; margin: 10px auto; border: 1px solid #cccccc; border-radius: 10px; padding: 10px; background: linear-gradient(145deg, #f8f9fa, #e9ecef);">
+  <summary style="font-weight: bold; cursor: pointer; padding: 5px;">
+    <img src="https://img.shields.io/badge/-PERSONAL%20WEB-313131?style=flat-square"/> APPLICATION
+  </summary>
   <hr style="border: 1px solid #FF3E00;">
   <p align="center" style="color: #212529;">Developed a personal website using Svelte and Django with PostgreSQL database integration. Deployed on AWS using Nginx and Apache.</p>
   <div align="center">
@@ -297,22 +289,17 @@ timeline
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   </div>
+</details>
+
+<div style="margin: 15px;">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="70%">
 </div>
 
-</td>
-</tr>
-
-<tr><td colspan="2" align="center">
-  <div style="margin: 10px;">
-    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="70%">
-  </div>
-</td></tr>
-
-<tr>
-<td width="50%" align="center">
-
-<div style="border: 1px solid #cccccc; border-radius: 10px; padding: 15px; background: linear-gradient(145deg, #f8f9fa, #e9ecef);">
-  <h3 align="center"><img src="https://img.shields.io/badge/-PROFESSIONAL%20CYCLING-313131?style=flat-square"/> ANALYSIS</h3>
+<!-- Professional Cycling Analysis Project -->
+<details style="width: 90%; margin: 10px auto; border: 1px solid #cccccc; border-radius: 10px; padding: 10px; background: linear-gradient(145deg, #f8f9fa, #e9ecef);">
+  <summary style="font-weight: bold; cursor: pointer; padding: 5px;">
+    <img src="https://img.shields.io/badge/-PROFESSIONAL%20CYCLING-313131?style=flat-square"/> ANALYSIS
+  </summary>
   <hr style="border: 1px solid #F7931E;">
   <p align="center" style="color: #212529;">Applied data mining techniques including cleaning, imputation, transformation, anomaly detection, and clustering to analyze cycling data and predict rider performance.</p>
   <div align="center">
@@ -320,13 +307,13 @@ timeline
     <img src="https://img.shields.io/badge/Data_Mining-F7931E?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Machine_Learning-025E8C?style=for-the-badge" />
   </div>
-</div>
+</details>
 
-</td>
-<td width="50%" align="center">
-
-<div style="border: 1px solid #cccccc; border-radius: 10px; padding: 15px; background: linear-gradient(145deg, #f8f9fa, #e9ecef);">
-  <h3 align="center"><img src="https://img.shields.io/badge/-FILE%20MANAGEMENT-313131?style=flat-square"/> SYSTEM</h3>
+<!-- File Management System Project -->
+<details style="width: 90%; margin: 10px auto; border: 1px solid #cccccc; border-radius: 10px; padding: 10px; background: linear-gradient(145deg, #f8f9fa, #e9ecef);">
+  <summary style="font-weight: bold; cursor: pointer; padding: 5px;">
+    <img src="https://img.shields.io/badge/-FILE%20MANAGEMENT-313131?style=flat-square"/> SYSTEM
+  </summary>
   <hr style="border: 1px solid #A8B9CC;">
   <p align="center" style="color: #212529;">Designed a concurrent file management protocol in C with socket programming to handle multiple clients, supporting file operations with error handling and cache management.</p>
   <div align="center">
@@ -334,11 +321,61 @@ timeline
     <img src="https://img.shields.io/badge/Socket_Programming-6C7B8B?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Multi_threading-5C3566?style=for-the-badge" />
   </div>
+</details>
+
 </div>
 
-</td>
-</tr>
-</table>
+## Current Focus
+
+<div align="center">
+  <h3>🚀 Current technological quests and skill enhancement paths</h3>
+  
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGR2MmtpMWRiOTFtd2c3eDNkMnN0NnI0NzQxcTBzbWRjdGd3MnRwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xThuWu82QD3pj4wvEQ/giphy.gif" width="350" alt="Learning GIF" />
+
+  <h3>🔥 SKILL DEVELOPMENT PATHWAYS 🔥</h3>
+
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" height="60" alt="Python" /><br>
+        <b>Advanced Deep Learning</b>
+      </td>
+      <td align="center">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" height="60" alt="JavaScript" /><br>
+        <b>Modern C++</b>
+      </td>
+      <td align="center">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" height="60" alt="Docker" /><br>
+        <b>DevOps</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="60" height="60" alt="Kubernetes" /><br>
+        <b>Orchestration</b>
+      </td>
+      <td align="center">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="60" height="60" alt="AWS" /><br>
+        <b>Cloud Native</b>
+      </td>
+      <td align="center">
+        <h2>RL</h2>
+        <b>Reinforcement<br>Learning</b>
+      </td>
+    </tr>
+  </table>
+  
+  <em>Focusing on mastering intelligent systems through reinforcement learning while expanding my full-stack and cloud infrastructure expertise.</em>
+
+  <pre align="center">
+    _____                 _                   
+   / ____|               | |                  
+  | |     _   _ _ __ ___ | |_ _   _ _ __ ___ 
+  | |    | | | | '__/ _ \| __| | | | '__/ _ \
+  | |____| |_| | | | (_) | |_| |_| | | |  __/
+   \_____|\__,_|_|  \___/ \__|\__,_|_|  \___|
+  </pre>
+</div>
 
 ## Performance Analytics
 
@@ -349,62 +386,47 @@ timeline
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lesi-nedo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lesi-nedo&layout=compact&langs_count=7&theme=tokyonight"/>
   
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lesi-nedo&theme=tokyonight" alt="GitHub streak stats" />
-  </p>
-  <br>
+
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="70%">
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lesi-nedo&theme=react-dark&hide_border=true" width="70%">
+  
+
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=lesi-nedo&theme=nord&column=7" />
+  </a>
 </div>
 
-## Current Focus
+
+## Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Svelte + Tailwind With Rollup And Django//Flask As The Backend](https://nedo.im/blog/2025/04/14/svelte-tailwind-with-rollup-and-djangoflask-as-the-backend)
+- [A Problog-Based Stochastic Agent For One-On-One Fighting Game](https://nedo.im/blog/2025/03/06/a-problog-based-stochastic-agent-for-one-on-one-fighting-game)
+- [From Zero To 500+ Linkedin Connections](https://nedo.im/blog/2025/02/12/from-zero-to-500-linkedin-connections)
+<!-- BLOG-POST-LIST:END -->
+
+## Let's Connect & Collaborate
+
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2N4MTNibWJjMG44YW91azA0a2JyZTZnYnV0dTdxc2psOWYyMXZsdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/juua9i2c2fA0AIp2iq/giphy.gif" width="400"/>
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python" />
-        <br>Advanced ML
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript" />
-        <br>Modern JS
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker" />
-        <br>DevOps
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="65" height="65" alt="Kubernetes" />
-        <br>Orchestration
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" alt="AWS" />
-        <br>Cloud Native
-      </td>
-    </tr>
-  </table>
+  <a href="https://linkedin.com/in/lesi-nedo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"></a>
+  <a href="http://nedo.im/blog/"><img src="https://img.shields.io/badge/Portfolio-14b8a6?style=for-the-badge&logo=astro&logoColor=white&labelColor=14b8a6"></a>
+  <a href="mailto:oleksiy12345@live.it"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=ea4335"></a>
 </div>
 
-## Connect with Me
-
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJtaW83cmR6ajZrOXk1M296Nmx5aTkwcGc3bjExcnVtcmFiMDQwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlTy9x8FZo0XO1i/giphy.gif" width="400"/>
-  <h4>Let's build something amazing together!</h4>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=lesi-nedo&color=6366F1&style=for-the-badge&label=PROFILE+VISITORS" alt="Profile visitors" />
   
-  <a href="https://linkedin.com/in/lesi-nedo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="http://nedo.im/blog/"><img src="https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"></a>
-  <a href="mailto:oleksiy12345@live.it"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/lesi-nedo"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=lesi-nedo&color=blueviolet&style=flat-square&label=Profile+Visits" />
+  <p>
+    <a href="https://github.com/lesi-nedo?tab=followers">
+      <img src="https://img.shields.io/github/followers/lesi-nedo?style=for-the-badge&color=6366F1&labelColor=181717&logo=github&label=Follow" alt="GitHub followers" />
+    </a>
+  </p>
   
-  <p><small>"The function of good software is to make the complex appear to be simple." — Grady Booch</small></p>
+  <p>"The function of good software is to make the complex appear to be simple." — Grady Booch</p>
   
+  <a href="https://nedo.im/pixels-rent/">
+    <img src="https://img.shields.io/badge/Support_My_Work_By_Renting_Pixels-0452cf?style=for-the-badge&labelColor=0452cf" alt="Rent Pixels Redirect" />
+  </a>
 </div>
