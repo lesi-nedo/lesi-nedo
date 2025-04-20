@@ -125,7 +125,7 @@ My name is **Oleksiy Nedobichuk**, I'm graduating in 2025 with a Master's degree
 
 
 <div align="left">
-  <img src="./assets/icons/horizontal-line-svgrepo-com.svg" width="40%" alt="Horizontal Line" />
+  <img src="./assets/icons/horizontal-line-svgrepo-com.svg" width="10%" alt="Horizontal Line" />
 
 
 
@@ -157,7 +157,7 @@ timeline
 
 
 
-<img src="./assets/icons/horizontal-line-svgrepo-com.svg" width="10%" alt="Horizontal Line" />
+<img src="./assets/icons/horizontal-line-svgrepo-com.svg" width="3%" alt="Horizontal Line" />
 
 
 
@@ -248,15 +248,12 @@ timeline
   </tr>
 </table>
 
-<img src="./assets/icons/horizontal-line-svgrepo-com.svg" width="10%" alt="Horizontal Line" />
+<img src="./assets/icons/horizontal-line-svgrepo-com.svg" width="3%" alt="Horizontal Line" />
 
 ## Current Focus
 
 <div align="left">
-  <h3>🚀 Current technological quests and skill enhancement paths</h3>
-  
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGR2MmtpMWRiOTFtd2c3eDNkMnN0NnI0NzQxcTBzbWRjdGd3MnRwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xThuWu82QD3pj4wvEQ/giphy.gif" width="100" alt="Learning GIF" />
-
+  <h3></h3>
   <table>
     <tr>
       <td align="left">
@@ -291,7 +288,7 @@ timeline
   <em>Focusing on mastering intelligent systems through reinforcement learning while expanding my full-stack and cloud infrastructure expertise.</em>
 </div>
 
-<img src="./assets/icons/horizontal-line-svgrepo-com.svg" width="40%" alt="Horizontal Line" />
+<img src="./assets/icons/horizontal-line-svgrepo-com.svg" width="3%" alt="Horizontal Line" />
 
 ## Performance Analytics
 
@@ -314,36 +311,43 @@ timeline
   </a>
 </div>
 
-<img src="./assets/icons/horizontal-line-svgrepo-com.svg" width="40%" alt="Horizontal Line" />
+<img src="./assets/icons/horizontal-line-svgrepo-com.svg" width="3%" alt="Horizontal Line" />
 
 ## Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
+
 - [Svelte + Tailwind With Rollup And Django//Flask As The Backend](https://nedo.im/blog/2025/04/14/svelte-tailwind-with-rollup-and-djangoflask-as-the-backend)
 - [A Problog-Based Stochastic Agent For One-On-One Fighting Game](https://nedo.im/blog/2025/03/06/a-problog-based-stochastic-agent-for-one-on-one-fighting-game)
 - [From Zero To 500+ Linkedin Connections](https://nedo.im/blog/2025/02/12/from-zero-to-500-linkedin-connections)
-<!-- BLOG-POST-LIST:END -->
 
+<img src="./assets/icons/horizontal-line-svgrepo-com.svg" width="2%" alt="Horizontal Line" />
 ## Let's Connect & Collaborate
 
+![](https://hit.yhype.me/github/profile?account_id=36276973)
 
 <div align="left">
-  <a href="https://linkedin.com/in/lesi-nedo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"></a>
-  <a href="http://nedo.im/blog/"><img src="https://img.shields.io/badge/Portfolio-14b8a6?style=for-the-badge&logo=astro&logoColor=white&labelColor=14b8a6"></a>
-  <a href="mailto:oleksiy12345@live.it"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=ea4335"></a>
+  <a href="https://www.linkedin.com/in/lesi-nedo/">
+        <img src="./assets/icons/linkedin.svg" alt="LinkedIn" width="30" height="30">
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://nedo.im/blog/">
+        <img src="./assets/icons/web-svgrepo-com.svg" alt="Brave" width="30" height="30">
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:oleksiy12345@live.it">
+        <img src="./assets/icons/outlook.svg" alt="Outlook" width="30" height="30">
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
+
 
 <div align="left">
   <br>
+  
   <img src="https://komarev.com/ghpvc/?username=lesi-nedo&color=6366F1&style=for-the-badge&label=PROFILE+VISITORS" alt="Profile visitors" />
   
-  <p>
-    <a href="https://github.com/lesi-nedo?tab=followers">
-      <img src="https://img.shields.io/github/followers/lesi-nedo?style=for-the-badge&color=6366F1&labelColor=181717&logo=github&label=Follow" alt="GitHub followers" />
-    </a>
-  </p>
   
   <p>"The function of good software is to make the complex appear to be simple." — Grady Booch</p>
-  
+
+</div>
+<img src="./assets/icons/horizontal-line-svgrepo-com.svg" width="3%" alt="Horizontal Line" />
+<div align="left">
   <a href="https://nedo.im/pixels-rent/">
     <img src="https://img.shields.io/badge/Support_My_Work_By_Renting_Pixels-0452cf?style=for-the-badge&labelColor=0452cf" alt="Rent Pixels Redirect" />
   </a>
