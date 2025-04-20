@@ -109,7 +109,7 @@ My name is **Oleksiy Nedobichuk**, I'm graduating in 2025 with a Master's degree
   </tr>
   <tr>
     <td align="left" colspan="2">
-      <h3>🛠️ DevOps & Tools</h3>
+      <h3><img src="./assets/icons/devops.svg" width="20" height="20"/> DevOps & Tools</h3>
       <div>
         <img src="./assets/icons/docker.svg" alt="Docker" width="50" height="50" />&nbsp;&nbsp;
         <img src="./assets/icons/linux.svg" alt="Linux" width="50" height="50" />&nbsp;&nbsp;
