@@ -1,3 +1,4 @@
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=4000&pause=1000&color=6495ED&center=true&vCenter=true&width=600&height=70&lines=Hello+World!+I'm+Oleksiy;AI+%26+ML+Enthusiast;Full-Stack+Developer;Problem+Solver" />
 </div>
@@ -11,15 +12,15 @@
 
 </div>
 
-## 🤖 About Me
+## About Me
 
 <div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJ2MzJ0NDdza2p3NGoxanp2Z3M0MWJpcXphZjgzeDlpa25lNGE2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300" align="right"/>
   <table>
     <tr>
       <td colspan="2" align="center">
         <img src="https://img.shields.io/badge/LEVEL%2042-TECH%20WIZARD-blueviolet?style=for-the-badge" />
-        <h3>⚡ OLEKSIY NEDOBOIYCHUK ⚡</h3>
-        <em>"Not all who wander through code are lost"</em>
+        <h3>OLEKSIY NEDOBOIYCHUK</h3>
       </td>
     </tr>
     <tr>
@@ -28,7 +29,7 @@
     </tr>
     <tr>
       <td><b>ORIGIN:</b></td>
-      <td>Pisa, Italy 🇮🇹</td>
+      <td>Pisa, Italy</td>
     </tr>
     <tr>
       <td><b>TRAINING:</b></td>
@@ -40,24 +41,24 @@
     <tr>
       <td><b>SPECIAL ABILITIES:</b></td>
       <td>
-        <span title="AI">🧠</span> AI Whisperer<br>
-        <span title="Machine Learning">🤖</span> Algorithm Tamer<br>
-        <span title="Reinforcement Learning">🎮</span> Digital Reinforcer<br>
-        <span title="Full-Stack Development">🏗️</span> Stack Constructor<br>
-        <span title="Problem Solving">🧩</span> Puzzle Master
+        AI Whisperer<br>
+        Algorithm Tamer<br>
+        Digital Reinforcer<br>
+        Stack Constructor<br>
+        Puzzle Master
       </td>
     </tr>
     <tr>
       <td><b>COMMUNICATION:</b></td>
-      <td>English 🇬🇧, Italian 🇮🇹, Ukrainian 🇺🇦, Russian 🇷🇺</td>
+      <td>English, Italian, Ukrainian, Russian</td>
     </tr>
     <tr>
       <td><b>SECRET POWER:</b></td>
-      <td>Can debug code with just a glance 👀✨</td>
+      <td>Can debug code with just a glance</td>
     </tr>
     <tr>
       <td><b>WEAKNESS:</b></td>
-      <td>Coffee supply interruptions ☕</td>
+      <td>Coffee supply interruptions</td>
     </tr>
     <tr>
       <td><b>QUEST:</b></td>
@@ -66,10 +67,11 @@
   </table>
 </div>
 
-## 🚀 Skills
+## Skills
 
 <div align="center">
-  
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTk4MHM1OWltMGtsYnJyeTYzZDMwdGM4OXExb3llZ2lidGlpZ2hzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="350" />
+
 | Category | Skills |
 |----------|--------|
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white) |
@@ -79,13 +81,16 @@
 | **Data** | ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB) |
 | **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) |
 | **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) |
-
 </div>
 
-## 🔥 Projects
+## Projects
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTl0eGxzbG5wYjRsOHltN2V1aG9hcnM0d2dkdDdjZ2xyZmRlMGdrZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="350" />
+</div>
 
 <details>
-<summary>🧠 <b>Neural Network From Scratch</b></summary>
+<summary><b>Neural Network From Scratch</b></summary>
 <br>
 Designed a flexible Neural Network using only Python and NumPy, implementing forward and backward propagation with Nesterov momentum optimization. Added L1/L2 regularization and grid search for hyperparameter tuning.
 <br>
@@ -93,15 +98,16 @@ Designed a flexible Neural Network using only Python and NumPy, implementing for
 </details>
 
 <details>
-<summary>🤖 <b>ProbLog Based AI Agent</b></summary>
+<summary><b>ProbLog Based AI Agent</b></summary>
 <br>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmt6ZnhrcGg4OXVueG5kcmYwcTJ1OXU1dnAwdHUxYXNwd2h5cW10aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1GEATImIxEXVR79Dhk/giphy.gif" width="200" align="right"/>
 Developed an AI agent using ProbLog for a 2D fighting game that adapts to opponents through dynamic probability estimation. Outperformed MCTS, MinMax, and Prolog-based agents in simulations.
 <br>
 <i>Technologies: ProbLog, Probabilistic Programming</i>
 </details>
 
 <details>
-<summary>📱 <b>Telegram Bot with GitHub Integration</b></summary>
+<summary><b>Telegram Bot with GitHub Integration</b></summary>
 <br>
 Created a Telegram bot that integrates with GitHub webhooks to provide repository event notifications and respond to user commands.
 <br>
@@ -109,15 +115,16 @@ Created a Telegram bot that integrates with GitHub webhooks to provide repositor
 </details>
 
 <details>
-<summary>🌐 <b>Personal Web Application</b></summary>
+<summary><b>Personal Web Application</b></summary>
 <br>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjNkbzN1NXpyeGMwaThidXdvYXdqZnh4eW5uM2M1aW9ucm5vaDU4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="200" align="right"/>
 Developed a personal website using Svelte and Django with PostgreSQL database integration. Deployed on AWS using Nginx and Apache.
 <br>
 <i>Technologies: Svelte, Django, PostgreSQL, AWS, Nginx, Apache</i>
 </details>
 
 <details>
-<summary>📊 <b>Professional Cycling Analysis</b></summary>
+<summary><b>Professional Cycling Analysis</b></summary>
 <br>
 Applied data mining techniques including cleaning, imputation, transformation, anomaly detection, and clustering to analyze cycling data and predict rider performance.
 <br>
@@ -125,41 +132,44 @@ Applied data mining techniques including cleaning, imputation, transformation, a
 </details>
 
 <details>
-<summary>🖥️ <b>File Management System</b></summary>
+<summary><b>File Management System</b></summary>
 <br>
 Designed a concurrent file management protocol in C with socket programming to handle multiple clients, supporting file operations with error handling and cache management.
 <br>
 <i>Technologies: C, Socket Programming, Multi-threading</i>
 </details>
 
-## 💼 Professional Journey
+## Professional Journey
 
 <div align="center">
   <img src="https://img.shields.io/badge/Experience-Professional%20Growth-blue?style=for-the-badge" alt="Experience"/>
+  <br>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWZuMWdnYXhtZ3U4N3RxN3dxdmNkbmQ0MHd6ZWYyMzJhODJ5MjlwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuMizcjNxJHvK/giphy.gif" width="400"/>
 </div>
 
 ```mermaid
 %%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#6495ED', 'primaryTextColor': '#fff', 'primaryBorderColor': '#6495ED', 'lineColor': '#F8B229', 'secondaryColor': '#006100', 'tertiaryColor': '#444444' }}}%%
 timeline
     title My Professional Journey
-    2019 : Started BSc in Computer Science 🎓
+    2019 : Started BSc in Computer Science
          : University of Pisa, Italy
          : Core CS fundamentals & programming
-    2022 : Full-Stack Developer 💻
+    2022 : Full-Stack Developer
          : TAI Solutions S.R.L
          : Developed enterprise applications with Spring Boot & Angular
          : Built scalable backend services & responsive UIs
-    2023 : Started MSc in AI 🧠
+    2023 : Started MSc in AI
          : University of Pisa, Italy
          : Focus: Machine Learning & Neural Networks
          : Research in Reinforcement Learning
-    2025 : Expected Graduation 🚀
+    2025 : Expected Graduation
          : Ready for advanced AI Engineering roles
 ```
 
-## 📊 Performance Analytics
+## Performance Analytics
 
 <div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3dkdmZwZ21xbnljN3E3bHNpemd6b2Jhc3U0Znl0dGxvNnl0aGt2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif" width="300" />
   <p><img src="https://img.shields.io/badge/GitHub-Statistics-orange?style=for-the-badge" alt="GitHub Stats"/></p>
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lesi-nedo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -170,9 +180,10 @@ timeline
   </p>
 </div>
 
-## 🔍 Current Focus
+## Current Focus
 
 <div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2N4MTNibWJjMG44YW91azA0a2JyZTZnYnV0dTdxc2psOWYyMXZsdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/juua9i2c2fA0AIp2iq/giphy.gif" width="400"/>
   <table>
     <tr>
       <td align="center" width="96">
@@ -199,10 +210,11 @@ timeline
   </table>
 </div>
 
-## 📫 Connect with Me
+## Connect with Me
 
 <div align="center">
-  <h4>Let's build something amazing together! 👨‍💻</h4>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJtaW83cmR6ajZrOXk1M296Nmx5aTkwcGc3bjExcnVtcmFiMDQwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlTy9x8FZo0XO1i/giphy.gif" width="400"/>
+  <h4>Let's build something amazing together!</h4>
   
   <a href="https://linkedin.com/in/lesi-nedo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="http://nedo.im/blog/"><img src="https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"></a>
@@ -215,7 +227,7 @@ timeline
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=lesi-nedo&color=blueviolet&style=flat-square&label=Profile+Visits" />
   
-  <p><small>💡 <i>"The function of good software is to make the complex appear to be simple."</i> — Grady Booch</small></p>
+  <p><small>"The function of good software is to make the complex appear to be simple." — Grady Booch</small></p>
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" width="100%"/>
 </div>
