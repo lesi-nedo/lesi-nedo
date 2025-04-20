@@ -300,7 +300,6 @@ timeline
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lesi-nedo&hide=Jupyter Notebook,html&layout=compact&langs_count=7&theme=tokyonight"/>
   
 
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="70%">
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lesi-nedo&theme=react-dark&hide_border=true" width="70%">
   
