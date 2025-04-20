@@ -293,8 +293,6 @@ timeline
 ## Performance Analytics
 
 <div align="left">
- 
-  <p><img src="https://img.shields.io/badge/GitHub-Statistics-orange?style=for-the-badge" alt="GitHub Stats"/></p>
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lesi-nedo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lesi-nedo&layout=compact&langs_count=7&theme=tokyonight"/>
@@ -320,6 +318,7 @@ timeline
 - [From Zero To 500+ Linkedin Connections](https://nedo.im/blog/2025/02/12/from-zero-to-500-linkedin-connections)
 
 <img src="./assets/icons/horizontal-line-svgrepo-com.svg" width="2%" alt="Horizontal Line" />
+
 ## Let's Connect & Collaborate
 
 ![](https://hit.yhype.me/github/profile?account_id=36276973)
