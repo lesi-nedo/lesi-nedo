@@ -19,11 +19,11 @@ My name is **Oleksiy Nedobichuk**, I'm graduating in 2025 with a Master's degree
     </a>
 </div>
 
-
+<img src="./assets/icons/horizontal-line-svgrepo-com.svg" width="2%" alt="Horizontal Line" />
 
 
 <div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2F3542&center=true&vCenter=true&width=435&lines=LEVEL+42+TECH+WIZARD;FULL-STACK+DEVELOPER;AI+SPECIALIST;ALGORITHM+ALCHEMIST" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2F3542&left=true&vLeft=true&width=435&lines=LEVEL+42+TECH+WIZARD;FULL-STACK+DEVELOPER;AI+SPECIALIST;ALGORITHM+ALCHEMIST" alt="Typing SVG" />
   
   > *Forged in the digital fires of Pisa, trained in the arcane arts of AI.*
 
@@ -39,7 +39,7 @@ My name is **Oleksiy Nedobichuk**, I'm graduating in 2025 with a Master's degree
 | **QUEST:** | A dedicated and passionate programmer, eager to contribute and grow |
 </div>
 
-
+<img src="./assets/icons/horizontal-line-svgrepo-com.svg" width="2%" alt="Horizontal Line" />
 
 ## Tech Arsenal
 
@@ -116,7 +116,16 @@ My name is **Oleksiy Nedobichuk**, I'm graduating in 2025 with a Master's degree
       </div>
     </td>
   </tr>
-</table>\
+</table>
+
+
+
+
+
+
+
+<div align="left">
+  <img src="./assets/icons/horizontal-line-svgrepo-com.svg" width="40%" alt="Horizontal Line" />
 
 
 
@@ -143,8 +152,14 @@ timeline
              : RESTful API design & implementation
              : Microservices & distributed systems
 ```
-<br>
-<br>
+
+</div>
+
+
+
+<img src="./assets/icons/horizontal-line-svgrepo-com.svg" width="10%" alt="Horizontal Line" />
+
+
 
 
 # Projects
@@ -233,7 +248,7 @@ timeline
   </tr>
 </table>
 
-
+<img src="./assets/icons/horizontal-line-svgrepo-com.svg" width="10%" alt="Horizontal Line" />
 
 ## Current Focus
 
@@ -276,6 +291,8 @@ timeline
   <em>Focusing on mastering intelligent systems through reinforcement learning while expanding my full-stack and cloud infrastructure expertise.</em>
 </div>
 
+<img src="./assets/icons/horizontal-line-svgrepo-com.svg" width="40%" alt="Horizontal Line" />
+
 ## Performance Analytics
 
 <div align="left">
@@ -297,6 +314,7 @@ timeline
   </a>
 </div>
 
+<img src="./assets/icons/horizontal-line-svgrepo-com.svg" width="40%" alt="Horizontal Line" />
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
