@@ -38,23 +38,23 @@
   > *Forged in the digital fires of Pisa, trained in the arcane arts of AI.*
 </div>
 
-<table align="left">
+<table align="center">
   <tr>
-    <td align="left" width="50%">
+    <td align="center" width="50%">
       <img src="https://img.shields.io/badge/Class-Junior%20Software%20Engineer-6495ED?style=for-the-badge" />
     </td>
-    <td align="left" width="50%">
+    <td align="center" width="50%">
       <img src="https://img.shields.io/badge/Origin-Pisa,%20Italy-6495ED?style=for-the-badge" />
     </td>
   </tr>
   <tr>
-    <td align="left" colspan="2">
+    <td align="center" colspan="2">
       <img src="https://img.shields.io/badge/Training-MSc%20Computer%20Science%20(AI%20Focus)%20|%20University%20of%20Pisa-6495ED?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Training-BSc%20Computer%20Science%20|%20University%20of%20Pisa-6495ED?style=for-the-badge" />
     </td>
   </tr>
   <tr>
-    <td align="left" colspan="2">
+    <td align="center" colspan="2">
       <h3>Abilities</h3>
       <div>
         <img src="https://img.shields.io/badge/AI%20Whisperer-e8ecf1?style=for-the-badge" />
@@ -66,7 +66,7 @@
     </td>
   </tr>
   <tr>
-    <td align="left" colspan="2">
+    <td align="center" colspan="2">
       <h3>Languages</h3>
       <div>
         <img src="https://img.shields.io/badge/English-Fluent-4a69bd?style=for-the-badge&logoColor=white" />
@@ -76,17 +76,17 @@
     </td>
   </tr>
   <tr>
-    <td align="left">
+    <td align="center">
       <h3>Secret Power</h3>
       <img src="https://img.shields.io/badge/Patience-Legendary-6495ED?style=for-the-badge&logoColor=white" />
     </td>
-    <td align="left">
+    <td align="center">
       <h3>☕ Weakness</h3>
       <img src="https://img.shields.io/badge/Critical%20dependency%20on%20caffeine%20infusions-brown?style=for-the-badge&logo=coffeescript&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td align="left" colspan="2">
+    <td align="center" colspan="2">
       <h3>Quest</h3>
       <img src="https://img.shields.io/badge/To%20weave%20elegant%20code,%20conquer%20complex%20challenges,%20and%20continuously%20evolve-6495ED?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Seeking%20epic%20collaborations!-6495ED?style=for-the-badge" />
@@ -94,7 +94,7 @@
   </tr>
 </table>
 
-<div align="left">
+<div align="center">
 
 <pre align="center">
      ___           ___           ___           ___     
@@ -225,12 +225,12 @@ timeline
 
 ## Projects
 
-<div align="left">
+<div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="70%">
   <h2><span style="color: #6495ED;">DIGITAL CREATIONS</span></h2>
 </div>
 
-<div align="left">
+<div align="center">
 
 <!-- Neural Network Project -->
 <details style="width: 90%; margin: 10px auto; border: 1px solid #cccccc; border-radius: 10px; padding: 10px; background: linear-gradient(145deg, #f8f9fa, #e9ecef);">
@@ -238,8 +238,8 @@ timeline
     <img src="https://img.shields.io/badge/-NEURAL%20NETWORK-313131?style=flat-square"/> FROM SCRATCH
   </summary>
   <hr style="border: 1px solid #6495ED;">
-  <p align="left" style="color: #212529;">Designed a flexible Neural Network using only Python and NumPy, implementing forward and backward propagation with Nesterov momentum optimization. Added L1/L2 regularization and grid search for hyperparameter tuning.</p>
-  <div align="left">
+  <p align="center" style="color: #212529;">Designed a flexible Neural Network using only Python and NumPy, implementing forward and backward propagation with Nesterov momentum optimization. Added L1/L2 regularization and grid search for hyperparameter tuning.</p>
+  <div align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   </div>
@@ -251,8 +251,8 @@ timeline
     <img src="https://img.shields.io/badge/-PROBLOG%20BASED-313131?style=flat-square"/> AI AGENT
   </summary>
   <hr style="border: 1px solid #DD0031;">
-  <p align="left" style="color: #212529;">Developed an AI agent using ProbLog for a 2D fighting game that adapts to opponents through dynamic probability estimation. Outperformed MCTS, MinMax, and Prolog-based agents in simulations.</p>
-  <div align="left">
+  <p align="center" style="color: #212529;">Developed an AI agent using ProbLog for a 2D fighting game that adapts to opponents through dynamic probability estimation. Outperformed MCTS, MinMax, and Prolog-based agents in simulations.</p>
+  <div align="center">
     <img src="https://img.shields.io/badge/ProbLog-AA0000?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Probabilistic_Programming-8A2BE2?style=for-the-badge" />
   </div>
@@ -268,8 +268,8 @@ timeline
     <img src="https://img.shields.io/badge/-TELEGRAM%20BOT-313131?style=flat-square"/> WITH GITHUB INTEGRATION
   </summary>
   <hr style="border: 1px solid #0088cc;">
-  <p align="left" style="color: #212529;">Created a Telegram bot that integrates with GitHub webhooks to provide repository event notifications and respond to user commands.</p>
-  <div align="left">
+  <p align="center" style="color: #212529;">Created a Telegram bot that integrates with GitHub webhooks to provide repository event notifications and respond to user commands.</p>
+  <div align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub_API-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -282,8 +282,8 @@ timeline
     <img src="https://img.shields.io/badge/-PERSONAL%20WEB-313131?style=flat-square"/> APPLICATION
   </summary>
   <hr style="border: 1px solid #FF3E00;">
-  <p align="left" style="color: #212529;">Developed a personal website using Svelte and Django with PostgreSQL database integration. Deployed on AWS using Nginx and Apache.</p>
-  <div align="left">
+  <p align="center" style="color: #212529;">Developed a personal website using Svelte and Django with PostgreSQL database integration. Deployed on AWS using Nginx and Apache.</p>
+  <div align="center">
     <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -301,8 +301,8 @@ timeline
     <img src="https://img.shields.io/badge/-PROFESSIONAL%20CYCLING-313131?style=flat-square"/> ANALYSIS
   </summary>
   <hr style="border: 1px solid #F7931E;">
-  <p align="left" style="color: #212529;">Applied data mining techniques including cleaning, imputation, transformation, anomaly detection, and clustering to analyze cycling data and predict rider performance.</p>
-  <div align="left">
+  <p align="center" style="color: #212529;">Applied data mining techniques including cleaning, imputation, transformation, anomaly detection, and clustering to analyze cycling data and predict rider performance.</p>
+  <div align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/Data_Mining-F7931E?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Machine_Learning-025E8C?style=for-the-badge" />
@@ -315,8 +315,8 @@ timeline
     <img src="https://img.shields.io/badge/-FILE%20MANAGEMENT-313131?style=flat-square"/> SYSTEM
   </summary>
   <hr style="border: 1px solid #A8B9CC;">
-  <p align="left" style="color: #212529;">Designed a concurrent file management protocol in C with socket programming to handle multiple clients, supporting file operations with error handling and cache management.</p>
-  <div align="left">
+  <p align="center" style="color: #212529;">Designed a concurrent file management protocol in C with socket programming to handle multiple clients, supporting file operations with error handling and cache management.</p>
+  <div align="center">
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
     <img src="https://img.shields.io/badge/Socket_Programming-6C7B8B?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Multi_threading-5C3566?style=for-the-badge" />
@@ -327,7 +327,7 @@ timeline
 
 ## Current Focus
 
-<div align="left">
+<div align="center">
   <h3>🚀 Current technological quests and skill enhancement paths</h3>
   
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGR2MmtpMWRiOTFtd2c3eDNkMnN0NnI0NzQxcTBzbWRjdGd3MnRwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xThuWu82QD3pj4wvEQ/giphy.gif" width="350" alt="Learning GIF" />
@@ -336,29 +336,29 @@ timeline
 
   <table>
     <tr>
-      <td align="left">
+      <td align="center">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" height="60" alt="Python" /><br>
         <b>Advanced Deep Learning</b>
       </td>
-      <td align="left">
+      <td align="center">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" height="60" alt="JavaScript" /><br>
         <b>Modern C++</b>
       </td>
-      <td align="left">
+      <td align="center">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" height="60" alt="Docker" /><br>
         <b>DevOps</b>
       </td>
     </tr>
     <tr>
-      <td align="left">
+      <td align="center">
         <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="60" height="60" alt="Kubernetes" /><br>
         <b>Orchestration</b>
       </td>
-      <td align="left">
+      <td align="center">
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="60" height="60" alt="AWS" /><br>
         <b>Cloud Native</b>
       </td>
-      <td align="left">
+      <td align="center">
         <h2>RL</h2>
         <b>Reinforcement<br>Learning</b>
       </td>
@@ -370,7 +370,7 @@ timeline
 
 ## Performance Analytics
 
-<div align="left">
+<div align="center">
  
   <p><img src="https://img.shields.io/badge/GitHub-Statistics-orange?style=for-the-badge" alt="GitHub Stats"/></p>
   
@@ -399,13 +399,13 @@ timeline
 ## Let's Connect & Collaborate
 
 
-<div align="left">
+<div align="center">
   <a href="https://linkedin.com/in/lesi-nedo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"></a>
   <a href="http://nedo.im/blog/"><img src="https://img.shields.io/badge/Portfolio-14b8a6?style=for-the-badge&logo=astro&logoColor=white&labelColor=14b8a6"></a>
   <a href="mailto:oleksiy12345@live.it"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=ea4335"></a>
 </div>
 
-<div align="left">
+<div align="center">
   <br>
   <img src="https://komarev.com/ghpvc/?username=lesi-nedo&color=6366F1&style=for-the-badge&label=PROFILE+VISITORS" alt="Profile visitors" />
   
