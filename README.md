@@ -2,7 +2,6 @@
 My name is **Oleksiy Nedobichuk**, I'm graduating in 2025 with a Master's degree in Computer Science, specializing in Artificial Intelligence. I'm a Software Developer devotee, with a passion for Reinforcement Learning field. I have a solid foundation in full-stack development, and I'm always thirsting for knowledge, and I'm yearning to learn new technologies. My life goals are to contribute to innovative software, and to be part of a team that pushes the boundaries of technology. I am currently looking for opportunities to apply my skills and grow in a dynamic and challenging environment.
 
 
-
 <div align="left">
     <br>
     <a href="https://www.linkedin.com/in/lesi-nedo/">
@@ -16,6 +15,9 @@ My name is **Oleksiy Nedobichuk**, I'm graduating in 2025 with a Master's degree
     </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.google.com/maps/place/Pisa+PI/@43.7067799,10.3747787,14z/data=!3m1!4b1!4m6!3m5!1s0x12d5919af0f6598f:0xaab80fb5a78478c8!8m2!3d43.7228385!4d10.4017581!16zL20vMDY0eHA?hl=it&entry=ttu&g_ep=EgoyMDI1MDQxNi4xIKXMDSoASAFQAw%3D%3D" target="_blank">
         <img src="./assets/icons/location-pin-navigation-destination-maps-svgrepo-com.svg" alt="Location" width="30" height="30">
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="./assets/icons/iconmonstr-cv-4.svg" target="_blank">
+        <img src="./assets/icons/iconmonstr-cv-4.svg" alt="CV" width="30" height="30">
     </a>
 </div>
 
