@@ -297,7 +297,7 @@ timeline
 <div align="left">
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lesi-nedo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lesi-nedo&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lesi-nedo&hide=Jupyter Notebook,html&layout=compact&langs_count=7&theme=tokyonight"/>
   
 
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="70%">
