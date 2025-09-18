@@ -36,10 +36,7 @@ My name is **Oleksiy Nedobichuk**. I'm a Software Developer devotee, with a pass
 
 <div align="left">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lesi-nedo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lesi-nedo&hide=Jupyter%20Notebook,html&layout=compact&langs_count=7&theme=tokyonight"/>
-  
-
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lesi-nedo&theme=react-dark&hide_border=true" width="100%">
   
