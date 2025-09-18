@@ -28,12 +28,8 @@ My name is **Oleksiy Nedobichuk**. I'm a Software Developer devotee, with a pass
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2F3542&left=true&vLeft=true&width=435&lines=LEVEL+42+TECH+WIZARD;FULL-STACK+DEVELOPER;AI+SPECIALIST;ALGORITHM+ALCHEMIST" alt="Typing SVG" />
   
   > *Forged in the digital fires of Pisa, trained in the arcane arts of AI.*
-
-
+> 
 <img src="./assets/icons/horizontal-line-svgrepo-com.svg" width="2%" alt="Horizontal Line" />
-
-<div align="left">
-  <img src="./assets/icons/horizontal-line-svgrepo-com.svg" width="18%" alt="Horizontal Line" />
 
 
 ## Performance Analytics
