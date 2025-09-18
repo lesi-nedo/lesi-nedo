@@ -1,34 +1,6 @@
 ## About Me
 My name is **Oleksiy Nedobichuk**. I'm a Software Developer devotee, with a passion for Reinforcement Learning field. I have a solid foundation in full-stack development, and I'm always thirsting for knowledge, and I'm yearning to learn new technologies. My life goals are to contribute to innovative software, and to be part of a team that pushes the boundaries of technology. I am currently looking for opportunities to apply my skills and grow in a dynamic and challenging environment.
 
-
-<div align="left">
-    <br>
-    <a href="https://www.linkedin.com/in/lesi-nedo/">
-        <img src="./assets/icons/linkedin.svg" alt="LinkedIn" width="30" height="30">
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://nedo.im/blog/">
-        <img src="./assets/icons/web-svgrepo-com.svg" alt="Brave" width="30" height="30">
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:oleksiy12345@live.it">
-        <img src="./assets/icons/outlook.svg" alt="Outlook" width="30" height="30">
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.google.com/maps/place/Pisa+PI/@43.7067799,10.3747787,14z/data=!3m1!4b1!4m6!3m5!1s0x12d5919af0f6598f:0xaab80fb5a78478c8!8m2!3d43.7228385!4d10.4017581!16zL20vMDY0eHA?hl=it&entry=ttu&g_ep=EgoyMDI1MDQxNi4xIKXMDSoASAFQAw%3D%3D" target="_blank">
-        <img src="./assets/icons/location-pin-navigation-destination-maps-svgrepo-com.svg" alt="Location" width="30" height="30">
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://nedo.im/static/cv/cv-on.pdf" target="_blank">
-        <img src="./assets/icons/iconmonstr-cv-4.svg" alt="CV" width="30" height="30">
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</div>
-
-<img src="./assets/icons/horizontal-line-svgrepo-com.svg" width="2%" alt="Horizontal Line" />
-
-
-<div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2F3542&left=true&vLeft=true&width=435&lines=LEVEL+42+TECH+WIZARD;FULL-STACK+DEVELOPER;AI+SPECIALIST;ALGORITHM+ALCHEMIST" alt="Typing SVG" />
-  
-  > *Forged in the digital fires of Pisa, trained in the arcane arts of AI.*
-> 
 <img src="./assets/icons/horizontal-line-svgrepo-com.svg" width="2%" alt="Horizontal Line" />
 
 
