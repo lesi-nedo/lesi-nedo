@@ -1,5 +1,5 @@
 ## About Me
-My name is **Oleksiy Nedobichuk**. I'm a Software Developer devotee, with a passion for Reinforcement Learning field. I have a solid foundation in full-stack development, and I'm always thirsting for knowledge, and I'm yearning to learn new technologies. My life goals are to contribute to innovative software, and to be part of a team that pushes the boundaries of technology. I am currently looking for opportunities to apply my skills and grow in a dynamic and challenging environment.
+My name is **Oleksiy Nedobichuk**. I'm a Software Developer devotee, with a passion for Reinforcement Learning field. I have a solid foundation in full-stack development, and I'm always thirsting for knowledge, and I'm yearning to learn new technologies. My life goals are to contribute to innovative software, and to be part of a team that pushes the boundaries of technology.
 
 <img src="./assets/icons/horizontal-line-svgrepo-com.svg" width="2%" alt="Horizontal Line" />
 
